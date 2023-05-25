@@ -1,0 +1,12 @@
+The task was to clean, prepare and analyze data generated from a store named "Vrinda Store" and generate visual insights using pivot tables and pivot charts to create
+a sheet with dynamic graphs.
+
+Samples questions used for reference:- 
+  1. Compare sales and orders using single chart
+  2. Which month got highest sales and orders?
+  3. Who purchased more men or women in 2022?
+  4. What are the different order status in 2022?
+  5. List top 5 states contributing the sales?
+  6. Relation b/w age and gender based on the number of orders.
+  7. Which channel is contributing to maximum sales?
+  8. Highest selling category
